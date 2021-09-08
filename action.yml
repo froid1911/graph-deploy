@@ -1,4 +1,4 @@
-name: "Graph Deploy"
+name: "Graph Deploy with Studio Support"
 description: "Deploy a subgraph to thegraph.com to index Ethereum and IPFS"
 branding:
   icon: "upload-cloud"
